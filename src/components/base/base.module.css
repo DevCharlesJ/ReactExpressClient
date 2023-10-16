@@ -1,0 +1,5 @@
+#sidebar {
+    border-right: 2px solid black;
+    height: 100vh;
+    padding: 1em 3em;
+}
